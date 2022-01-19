@@ -1,0 +1,22 @@
+/** Body **/
+    .maintitle {
+        font-family: "Courier New", Monospace;
+        color: red;
+        font-size: 50px;
+        text-align: center;
+        background-color: rgb(143, 156, 197);
+        padding: 30px 30px;
+        font-weight: bolder;
+    }
+
+    li {
+        display: inline-block;
+        font-family: "Courier New", monospace;
+        font-size: 25px;
+        width: 300px;
+        height: 50px;
+        border-radius: 10px;
+        background-color: sandybrown;
+        text-align: center;
+        font-weight: bold;
+    }
